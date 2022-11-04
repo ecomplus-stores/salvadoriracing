@@ -8,12 +8,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "collection_id": null,
       "sort": "sales",
       "title": "Mais vendidos",
       "headless": false,
-      "limit": 12,
+      "limit": 24,
       "page": 1
     },
     {
