@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.04e50545513071ed8b8c399c92e7857e.gif",
+      "sizes": "512x512",
+      "type": "image/gif"
+    },
+    {
+      "src": "/icon_384x384.04e50545513071ed8b8c399c92e7857e.gif",
+      "sizes": "384x384",
+      "type": "image/gif"
+    },
+    {
+      "src": "/icon_192x192.04e50545513071ed8b8c399c92e7857e.gif",
+      "sizes": "192x192",
+      "type": "image/gif"
+    },
+    {
+      "src": "/icon_128x128.04e50545513071ed8b8c399c92e7857e.gif",
+      "sizes": "128x128",
+      "type": "image/gif"
+    },
+    {
+      "src": "/icon_96x96.04e50545513071ed8b8c399c92e7857e.gif",
+      "sizes": "96x96",
+      "type": "image/gif"
+    }
+  ],
+  "name": "Salvadori Racing Modelismo",
+  "short_name": "SALVADORI RACING MODELISMO",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja virtual dedicada a modelismo r/c",
+  "background_color": "#ffffff",
+  "theme_color": "#00b377"
+}
